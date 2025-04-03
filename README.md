@@ -28,6 +28,6 @@ Criar um sistema simples de CRUD (Create, Read, Update, Delete) para o cadastro 
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seu-usuario/seu-repo.git
+   git clone https://github.com/higorldmoreira/Teste_Im-vel-Guide.git
 
 
